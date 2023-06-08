@@ -8,8 +8,8 @@
 - RPA specialist: 3 months.  
   
 
-### 🌱Profile status: 
-- **In development**  
+### Profile status: 
+- **In development** 👨‍💻
   
 
 <br/>  
