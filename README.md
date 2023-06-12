@@ -29,4 +29,7 @@
 </td>
 </tr></table>  
 
-<br/>  
+<br/> 
+
+![Counter](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<br/> 
