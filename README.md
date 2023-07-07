@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## <div align="center">I'm Mikhail, a Junior Java developer ☕</div>  
+## <div align="center">I'm Mikhail, a Java developer ☕</div>  
   
 
 ### Commercial experience:
